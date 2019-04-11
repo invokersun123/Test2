@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01.iml" filepath="$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_dao/heima_ssm_xml_01_dao.iml" filepath="$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_dao/heima_ssm_xml_01_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_domain/heima_ssm_xml_01_domain.iml" filepath="$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_domain/heima_ssm_xml_01_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_service/heima_ssm_xml_01_service.iml" filepath="$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_service/heima_ssm_xml_01_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_util/heima_ssm_xml_01_util.iml" filepath="$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_util/heima_ssm_xml_01_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_web/heima_ssm_xml_01_web.iml" filepath="$PROJECT_DIR$/../../heima_ssm_xml_01/heima_ssm_xml_01_web/heima_ssm_xml_01_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_ny.iml" filepath="$PROJECT_DIR$/mybatis_ny.iml" />
+    </modules>
+  </component>
+</project>
